@@ -1,0 +1,1127 @@
+{
+ "catalogTitle": "2026 Sonbahar Kataloğu",
+ "categories": [
+  {
+   "slug": "koltuk-kanepe",
+   "name": "Koltuk & Kanepe",
+   "image": "scene-sectional"
+  },
+  {
+   "slug": "berjer",
+   "name": "Berjer & Tekli",
+   "image": "armchair-yellow"
+  },
+  {
+   "slug": "yatak-odasi",
+   "name": "Yatak Odası",
+   "image": "bed-green"
+  },
+  {
+   "slug": "yemek-odasi",
+   "name": "Yemek Odası",
+   "image": "dining-emerald"
+  },
+  {
+   "slug": "sandalye",
+   "name": "Sandalye & Tabure",
+   "image": "chair-grey-velvet"
+  },
+  {
+   "slug": "depolama",
+   "name": "TV & Depolama",
+   "image": "wallunit-oak"
+  },
+  {
+   "slug": "calisma",
+   "name": "Çalışma Odası",
+   "image": "desk-walnut"
+  }
+ ],
+ "collections": [
+  {
+   "slug": "nordic",
+   "name": "Nordic Sakinlik",
+   "text": "Açık tonlar, doğal ahşap, sade formlar.",
+   "image": "scene-cream"
+  },
+  {
+   "slug": "toprak",
+   "name": "Toprak Tonları",
+   "text": "Kiremit, taba ve hardalın sıcaklığı.",
+   "image": "scene-orange"
+  },
+  {
+   "slug": "loft",
+   "name": "Loft Yaşam",
+   "text": "Metal, deri ve koyu tonlarla endüstriyel.",
+   "image": "scene-loft"
+  },
+  {
+   "slug": "botanik",
+   "name": "Botanik",
+   "text": "Yeşil tonlar ve bitkilerle nefes alan evler.",
+   "image": "scene-gallery"
+  }
+ ],
+ "products": [
+  {
+   "id": "vera",
+   "sku": "NV-100",
+   "name": "Vera Kadife Kanepe 3'lü",
+   "category": "koltuk-kanepe",
+   "collection": "nordic",
+   "price": 38900,
+   "oldPrice": 44900,
+   "images": [
+    "sofa-emerald",
+    "scene-sectional"
+   ],
+   "colors": [
+    {
+     "name": "Zümrüt",
+     "hex": "#1F5B4B"
+    },
+    {
+     "name": "Antrasit",
+     "hex": "#3A3D42"
+    },
+    {
+     "name": "Bej",
+     "hex": "#D9C7AE"
+    }
+   ],
+   "dimensions": {
+    "w": 214,
+    "d": 88,
+    "h": 82
+   },
+   "material": "Kadife kumaş · Masif kayın ayak",
+   "description": "Derin oturumu ve ince kolçaklarıyla salonun odak noktası. Leke tutmayan, silinebilir kadife kumaş.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-01-10"
+  },
+  {
+   "id": "aspen",
+   "sku": "NV-107",
+   "name": "Aspen Deri Kanepe",
+   "category": "koltuk-kanepe",
+   "collection": "toprak",
+   "price": 64500,
+   "oldPrice": null,
+   "images": [
+    "sofa-leather",
+    "scene-panorama"
+   ],
+   "colors": [
+    {
+     "name": "Taba",
+     "hex": "#A0643A"
+    },
+    {
+     "name": "Siyah",
+     "hex": "#1B1B1B"
+    }
+   ],
+   "dimensions": {
+    "w": 228,
+    "d": 92,
+    "h": 84
+   },
+   "material": "Hakiki deri · Ceviz ayak",
+   "description": "Zamanla güzelleşen hakiki deri, mid-century çizgiler ve kaz tüyü destekli minderler.",
+   "tags": [
+    "cok-satan"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-06-10"
+  },
+  {
+   "id": "soho",
+   "sku": "NV-114",
+   "name": "Soho Modüler Kanepe",
+   "category": "koltuk-kanepe",
+   "collection": "toprak",
+   "price": 42750,
+   "oldPrice": 48900,
+   "images": [
+    "sofa-terracotta",
+    "scene-orange"
+   ],
+   "colors": [
+    {
+     "name": "Kiremit",
+     "hex": "#B6532F"
+    },
+    {
+     "name": "Hardal",
+     "hex": "#D4A12A"
+    },
+    {
+     "name": "Bej",
+     "hex": "#D9C7AE"
+    }
+   ],
+   "dimensions": {
+    "w": 240,
+    "d": 95,
+    "h": 78
+   },
+   "material": "Bouclé dokulu kumaş · Modüler",
+   "description": "İstediğiniz gibi birleştirin: köşe, 3'lü ya da şezlong. Her modül ayrı satılabilir.",
+   "tags": [
+    "indirim"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-02-10"
+  },
+  {
+   "id": "luna",
+   "sku": "NV-121",
+   "name": "Luna 2'li Kanepe",
+   "category": "koltuk-kanepe",
+   "collection": "nordic",
+   "price": 24900,
+   "oldPrice": null,
+   "images": [
+    "sofa-yellow",
+    "scene-bright"
+   ],
+   "colors": [
+    {
+     "name": "Sarı",
+     "hex": "#E9B825"
+    },
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    },
+    {
+     "name": "Buz Mavisi",
+     "hex": "#9BB3C9"
+    }
+   ],
+   "dimensions": {
+    "w": 168,
+    "d": 82,
+    "h": 80
+   },
+   "material": "Keten karışım · Yıkanabilir kılıf",
+   "description": "Küçük salonlar ve çalışma odaları için kompakt, neşeli bir 2'li.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-07-10"
+  },
+  {
+   "id": "chester",
+   "sku": "NV-128",
+   "name": "Chester Kapitoneli Kanepe",
+   "category": "koltuk-kanepe",
+   "collection": "loft",
+   "price": 47900,
+   "oldPrice": null,
+   "images": [
+    "sofa-grey-tufted",
+    "scene-loft"
+   ],
+   "colors": [
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    },
+    {
+     "name": "Lacivert",
+     "hex": "#1F2A44"
+    }
+   ],
+   "dimensions": {
+    "w": 220,
+    "d": 90,
+    "h": 76
+   },
+   "material": "Kapitoneli sırt · Metal ayak",
+   "description": "Klasik chester formunu modern ölçülerle yorumladık. El işçiliği kapitone detaylar.",
+   "tags": [
+    "cok-satan"
+   ],
+   "stock": "siparis",
+   "createdAt": "2026-03-10"
+  },
+  {
+   "id": "kiyi",
+   "sku": "NV-135",
+   "name": "Kıyı Kanepe",
+   "category": "koltuk-kanepe",
+   "collection": "nordic",
+   "price": 29900,
+   "oldPrice": 33900,
+   "images": [
+    "sofa-blue",
+    "scene-reading"
+   ],
+   "colors": [
+    {
+     "name": "Buz Mavisi",
+     "hex": "#9BB3C9"
+    },
+    {
+     "name": "Bej",
+     "hex": "#D9C7AE"
+    }
+   ],
+   "dimensions": {
+    "w": 200,
+    "d": 86,
+    "h": 84
+   },
+   "material": "Pamuklu kumaş · Kayın ayak",
+   "description": "Yumuşak buz mavisi tonu ve rahat oturumuyla sakin bir salon için.",
+   "tags": [
+    "indirim"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-08-10"
+  },
+  {
+   "id": "bulut",
+   "sku": "NV-142",
+   "name": "Bulut Rahat Kanepe",
+   "category": "koltuk-kanepe",
+   "collection": "nordic",
+   "price": 33400,
+   "oldPrice": null,
+   "images": [
+    "sofa-cream",
+    "scene-cream"
+   ],
+   "colors": [
+    {
+     "name": "Krem",
+     "hex": "#EDE3D2"
+    },
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    }
+   ],
+   "dimensions": {
+    "w": 210,
+    "d": 95,
+    "h": 85
+   },
+   "material": "Mikrofiber · Yataklı mekanizma",
+   "description": "Adı gibi yumuşak. Tek hareketle çift kişilik yatağa dönüşür.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-04-10"
+  },
+  {
+   "id": "oslo",
+   "sku": "NV-149",
+   "name": "Oslo Berjer",
+   "category": "berjer",
+   "collection": "nordic",
+   "price": 14900,
+   "oldPrice": null,
+   "images": [
+    "armchair-yellow",
+    "scene-gallery"
+   ],
+   "colors": [
+    {
+     "name": "Sarı",
+     "hex": "#E9B825"
+    },
+    {
+     "name": "Zümrüt",
+     "hex": "#1F5B4B"
+    },
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    }
+   ],
+   "dimensions": {
+    "w": 78,
+    "d": 82,
+    "h": 96
+   },
+   "material": "Kadife · Masif ayak",
+   "description": "Kitap köşesinin vazgeçilmezi. Yüksek sırt, geniş oturum.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-09-10"
+  },
+  {
+   "id": "hardal",
+   "sku": "NV-156",
+   "name": "Hardal Berjer + Puf Takımı",
+   "category": "berjer",
+   "collection": "toprak",
+   "price": 18600,
+   "oldPrice": 21400,
+   "images": [
+    "armchair-mustard-set",
+    "scene-orange"
+   ],
+   "colors": [
+    {
+     "name": "Hardal",
+     "hex": "#D4A12A"
+    },
+    {
+     "name": "Bej",
+     "hex": "#D9C7AE"
+    }
+   ],
+   "dimensions": {
+    "w": 80,
+    "d": 84,
+    "h": 98
+   },
+   "material": "Pamuk-keten · Masif meşe ayak",
+   "description": "Berjer ve puf birlikte: ayaklarınızı uzatın, çayınızı alın.",
+   "tags": [
+    "indirim"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-05-10"
+  },
+  {
+   "id": "saray",
+   "sku": "NV-163",
+   "name": "Beyaz Saray Berjer",
+   "category": "berjer",
+   "collection": "nordic",
+   "price": 12750,
+   "oldPrice": null,
+   "images": [
+    "armchair-white",
+    "scene-cream"
+   ],
+   "colors": [
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    },
+    {
+     "name": "Krem",
+     "hex": "#EDE3D2"
+    }
+   ],
+   "dimensions": {
+    "w": 70,
+    "d": 74,
+    "h": 92
+   },
+   "material": "Bouclé · Beyaz lake ayak",
+   "description": "Yatak odası ve giyinme köşeleri için zarif, kapitoneli tekli.",
+   "tags": [],
+   "stock": "az",
+   "createdAt": "2026-01-10"
+  },
+  {
+   "id": "milano",
+   "sku": "NV-170",
+   "name": "Milano Kanallı Yatak",
+   "category": "yatak-odasi",
+   "collection": "loft",
+   "price": 36900,
+   "oldPrice": null,
+   "images": [
+    "bed-channel",
+    "scene-sectional"
+   ],
+   "colors": [
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    },
+    {
+     "name": "Krem",
+     "hex": "#EDE3D2"
+    }
+   ],
+   "dimensions": {
+    "w": 180,
+    "d": 215,
+    "h": 120
+   },
+   "material": "Kadife başlık · Sandıklı baza",
+   "description": "Dikey kanallı başlık ve amortisörlü geniş sandık. 160x200 yatak ölçüsü.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-06-10"
+  },
+  {
+   "id": "versailles",
+   "sku": "NV-177",
+   "name": "Versailles Kapitoneli Yatak",
+   "category": "yatak-odasi",
+   "collection": "nordic",
+   "price": 41500,
+   "oldPrice": 46000,
+   "images": [
+    "bed-tufted",
+    "scene-bright"
+   ],
+   "colors": [
+    {
+     "name": "Krem",
+     "hex": "#EDE3D2"
+    },
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    }
+   ],
+   "dimensions": {
+    "w": 190,
+    "d": 220,
+    "h": 140
+   },
+   "material": "Kapitoneli başlık · Masif iskelet",
+   "description": "Otel konforu evinizde: yüksek kapitoneli başlık, sessiz iskelet.",
+   "tags": [
+    "indirim"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-02-10"
+  },
+  {
+   "id": "sade",
+   "sku": "NV-184",
+   "name": "Sade Yatak Odası Takımı",
+   "category": "yatak-odasi",
+   "collection": "nordic",
+   "price": 58900,
+   "oldPrice": null,
+   "images": [
+    "bed-grey",
+    "nightstand-oak"
+   ],
+   "colors": [
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    },
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "dimensions": {
+    "w": 170,
+    "d": 210,
+    "h": 105
+   },
+   "material": "Yatak + 2 komodin + şifonyer",
+   "description": "Tek seferde tamamlanan, göz yormayan bir yatak odası.",
+   "tags": [
+    "cok-satan"
+   ],
+   "stock": "siparis",
+   "createdAt": "2026-07-10"
+  },
+  {
+   "id": "gece",
+   "sku": "NV-191",
+   "name": "Gece Yatak",
+   "category": "yatak-odasi",
+   "collection": "loft",
+   "price": 27900,
+   "oldPrice": null,
+   "images": [
+    "bed-navy",
+    "scene-loft"
+   ],
+   "colors": [
+    {
+     "name": "Lacivert",
+     "hex": "#1F2A44"
+    },
+    {
+     "name": "Antrasit",
+     "hex": "#3A3D42"
+    }
+   ],
+   "dimensions": {
+    "w": 172,
+    "d": 212,
+    "h": 100
+   },
+   "material": "Keten başlık · Metal ayak",
+   "description": "Koyu tonlarıyla modern ve cesur bir yatak odası.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-03-10"
+  },
+  {
+   "id": "adacayi",
+   "sku": "NV-198",
+   "name": "Adaçayı Karyola",
+   "category": "yatak-odasi",
+   "collection": "botanik",
+   "price": 24500,
+   "oldPrice": null,
+   "images": [
+    "bed-green",
+    "scene-gallery"
+   ],
+   "colors": [
+    {
+     "name": "Adaçayı",
+     "hex": "#8FA58C"
+    },
+    {
+     "name": "Bej",
+     "hex": "#D9C7AE"
+    }
+   ],
+   "dimensions": {
+    "w": 168,
+    "d": 210,
+    "h": 95
+   },
+   "material": "Keten kumaş · Kayın iskelet",
+   "description": "Doğal tonlar ve bitkilerle uyumlu, huzurlu bir karyola.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-08-10"
+  },
+  {
+   "id": "komodin",
+   "sku": "NV-205",
+   "name": "Ceviz Komodin",
+   "category": "yatak-odasi",
+   "collection": "toprak",
+   "price": 5450,
+   "oldPrice": null,
+   "images": [
+    "nightstand-oak",
+    "scene-reading"
+   ],
+   "colors": [
+    {
+     "name": "Ceviz",
+     "hex": "#6B4A31"
+    },
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    }
+   ],
+   "dimensions": {
+    "w": 50,
+    "d": 40,
+    "h": 58
+   },
+   "material": "Masif ceviz · Açık raf",
+   "description": "Yuvarlatılmış köşeler, açık raf ve sessiz çekmece.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-04-10"
+  },
+  {
+   "id": "zumrut-set",
+   "sku": "NV-212",
+   "name": "Zümrüt Yemek Takımı",
+   "category": "yemek-odasi",
+   "collection": "botanik",
+   "price": 52900,
+   "oldPrice": 59900,
+   "images": [
+    "dining-emerald",
+    "scene-panorama"
+   ],
+   "colors": [
+    {
+     "name": "Zümrüt",
+     "hex": "#1F5B4B"
+    },
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    }
+   ],
+   "dimensions": {
+    "w": 200,
+    "d": 100,
+    "h": 76
+   },
+   "material": "6 kişilik · Mermer desen tabla",
+   "description": "Kadife sandalyeler ve mermer desenli tablayla davet sofraları.",
+   "tags": [
+    "indirim",
+    "cok-satan"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-09-10"
+  },
+  {
+   "id": "ceviz-masa",
+   "sku": "NV-219",
+   "name": "Ceviz Yemek Masası",
+   "category": "yemek-odasi",
+   "collection": "toprak",
+   "price": 31500,
+   "oldPrice": null,
+   "images": [
+    "dining-walnut",
+    "scene-kitchen"
+   ],
+   "colors": [
+    {
+     "name": "Ceviz",
+     "hex": "#6B4A31"
+    }
+   ],
+   "dimensions": {
+    "w": 180,
+    "d": 90,
+    "h": 76
+   },
+   "material": "Masif ceviz · Açılır tabla",
+   "description": "Masif ceviz, 8 kişiye kadar açılabilen tabla.",
+   "tags": [],
+   "stock": "siparis",
+   "createdAt": "2026-05-10"
+  },
+  {
+   "id": "bistro",
+   "sku": "NV-226",
+   "name": "Yuvarlak Bistro Takımı",
+   "category": "yemek-odasi",
+   "collection": "nordic",
+   "price": 16900,
+   "oldPrice": null,
+   "images": [
+    "dining-round",
+    "scene-bright"
+   ],
+   "colors": [
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    },
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "dimensions": {
+    "w": 100,
+    "d": 100,
+    "h": 75
+   },
+   "material": "4 kişilik · Meşe kaplama",
+   "description": "Küçük mutfaklar için yuvarlak masa ve 4 sandalye.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-01-10"
+  },
+  {
+   "id": "nova",
+   "sku": "NV-233",
+   "name": "Nova Kadife Sandalye",
+   "category": "sandalye",
+   "collection": "loft",
+   "price": 4290,
+   "oldPrice": null,
+   "images": [
+    "chair-grey-velvet",
+    "dining-emerald"
+   ],
+   "colors": [
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    },
+    {
+     "name": "Zümrüt",
+     "hex": "#1F5B4B"
+    },
+    {
+     "name": "Taba",
+     "hex": "#A0643A"
+    }
+   ],
+   "dimensions": {
+    "w": 50,
+    "d": 56,
+    "h": 88
+   },
+   "material": "Kadife · Masif kayın ayak",
+   "description": "Yemek masası ve çalışma masası için konforlu kadife sandalye.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-06-10"
+  },
+  {
+   "id": "eames",
+   "sku": "NV-240",
+   "name": "Kabuk Sandalye",
+   "category": "sandalye",
+   "collection": "nordic",
+   "price": 2490,
+   "oldPrice": 2890,
+   "images": [
+    "chair-black-shell",
+    "scene-office"
+   ],
+   "colors": [
+    {
+     "name": "Siyah",
+     "hex": "#1B1B1B"
+    },
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "dimensions": {
+    "w": 46,
+    "d": 52,
+    "h": 82
+   },
+   "material": "PP kabuk · Kayın ayak",
+   "description": "İkonik kabuk form, deri görünümlü minder.",
+   "tags": [
+    "indirim",
+    "cok-satan"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-02-10"
+  },
+  {
+   "id": "bar",
+   "sku": "NV-247",
+   "name": "Loft Bar Taburesi",
+   "category": "sandalye",
+   "collection": "loft",
+   "price": 2990,
+   "oldPrice": null,
+   "images": [
+    "barstool-black",
+    "scene-kitchen"
+   ],
+   "colors": [
+    {
+     "name": "Siyah",
+     "hex": "#1B1B1B"
+    }
+   ],
+   "dimensions": {
+    "w": 46,
+    "d": 50,
+    "h": 104
+   },
+   "material": "PP kabuk · Metal ayak",
+   "description": "Mutfak adası için 75 cm oturum yüksekliği.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-07-10"
+  },
+  {
+   "id": "minimal",
+   "sku": "NV-254",
+   "name": "Minimal Tabure",
+   "category": "sandalye",
+   "collection": "nordic",
+   "price": 1690,
+   "oldPrice": null,
+   "images": [
+    "stool-white",
+    "scene-bright"
+   ],
+   "colors": [
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    },
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    }
+   ],
+   "dimensions": {
+    "w": 35,
+    "d": 35,
+    "h": 65
+   },
+   "material": "Masif kayın · Lake",
+   "description": "Hem tabure hem sehpa. Hafif, dayanıklı.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-03-10"
+  },
+  {
+   "id": "pop",
+   "sku": "NV-261",
+   "name": "Pop Sandalye (2'li)",
+   "category": "sandalye",
+   "collection": "nordic",
+   "price": 5980,
+   "oldPrice": null,
+   "images": [
+    "chair-yellow-pair",
+    "scene-gallery"
+   ],
+   "colors": [
+    {
+     "name": "Sarı",
+     "hex": "#E9B825"
+    },
+    {
+     "name": "Gri",
+     "hex": "#9A9C9F"
+    }
+   ],
+   "dimensions": {
+    "w": 48,
+    "d": 54,
+    "h": 82
+   },
+   "material": "PP · Metal ayak",
+   "description": "Renkli, istiflenebilir ve dış mekâna uygun.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-08-10"
+  },
+  {
+   "id": "koy",
+   "sku": "NV-268",
+   "name": "Köy Masif Sandalye",
+   "category": "sandalye",
+   "collection": "toprak",
+   "price": 3250,
+   "oldPrice": null,
+   "images": [
+    "chair-wood-classic",
+    "dining-walnut"
+   ],
+   "colors": [
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    }
+   ],
+   "dimensions": {
+    "w": 44,
+    "d": 48,
+    "h": 90
+   },
+   "material": "Masif gürgen · Hasır oturum",
+   "description": "El yapımı, geleneksel form.",
+   "tags": [],
+   "stock": "az",
+   "createdAt": "2026-04-10"
+  },
+  {
+   "id": "noir",
+   "sku": "NV-275",
+   "name": "Noir Sandalye",
+   "category": "sandalye",
+   "collection": "loft",
+   "price": 3890,
+   "oldPrice": null,
+   "images": [
+    "chair-dark",
+    "scene-loft"
+   ],
+   "colors": [
+    {
+     "name": "Siyah",
+     "hex": "#1B1B1B"
+    },
+    {
+     "name": "Ceviz",
+     "hex": "#6B4A31"
+    }
+   ],
+   "dimensions": {
+    "w": 45,
+    "d": 50,
+    "h": 86
+   },
+   "material": "Masif meşe · Siyah vernik",
+   "description": "Dramatik siyah vernik, yalın çizgiler.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-09-10"
+  },
+  {
+   "id": "floating",
+   "sku": "NV-282",
+   "name": "Floating TV Ünitesi",
+   "category": "depolama",
+   "collection": "toprak",
+   "price": 18750,
+   "oldPrice": null,
+   "images": [
+    "wallunit-oak",
+    "scene-orange"
+   ],
+   "colors": [
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    },
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "dimensions": {
+    "w": 240,
+    "d": 35,
+    "h": 180
+   },
+   "material": "Duvara monte · Meşe kaplama",
+   "description": "Duvardan yükselen raflar ve gizli kablo kanalı.",
+   "tags": [
+    "cok-satan"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-05-10"
+  },
+  {
+   "id": "nis",
+   "sku": "NV-289",
+   "name": "Nişli Kitaplık",
+   "category": "depolama",
+   "collection": "nordic",
+   "price": 13900,
+   "oldPrice": null,
+   "images": [
+    "cabinet-tall",
+    "scene-reading"
+   ],
+   "colors": [
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    },
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "dimensions": {
+    "w": 80,
+    "d": 38,
+    "h": 200
+   },
+   "material": "Meşe kaplama · 10 bölme",
+   "description": "Kitap, bitki ve objeler için ritmik bölmeler.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-01-10"
+  },
+  {
+   "id": "konsol",
+   "sku": "NV-296",
+   "name": "Meşe Konsol",
+   "category": "depolama",
+   "collection": "nordic",
+   "price": 9850,
+   "oldPrice": null,
+   "images": [
+    "console-oak",
+    "scene-cream"
+   ],
+   "colors": [
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    }
+   ],
+   "dimensions": {
+    "w": 120,
+    "d": 40,
+    "h": 78
+   },
+   "material": "Masif meşe · Metal ayak",
+   "description": "Antre ve koridorlar için ince konsol.",
+   "tags": [
+    "yeni"
+   ],
+   "stock": "stokta",
+   "createdAt": "2026-06-10"
+  },
+  {
+   "id": "atolye",
+   "sku": "NV-303",
+   "name": "Atölye Çalışma Masası",
+   "category": "calisma",
+   "collection": "toprak",
+   "price": 12400,
+   "oldPrice": null,
+   "images": [
+    "desk-walnut",
+    "scene-office"
+   ],
+   "colors": [
+    {
+     "name": "Ceviz",
+     "hex": "#6B4A31"
+    },
+    {
+     "name": "Meşe",
+     "hex": "#C49A6C"
+    }
+   ],
+   "dimensions": {
+    "w": 140,
+    "d": 70,
+    "h": 75
+   },
+   "material": "Masif ceviz · Metal ayak",
+   "description": "Doğal kenarlı masif ceviz tabla.",
+   "tags": [],
+   "stock": "siparis",
+   "createdAt": "2026-02-10"
+  },
+  {
+   "id": "beyaz-masa",
+   "sku": "NV-310",
+   "name": "Beyaz Minimal Çalışma Masası",
+   "category": "calisma",
+   "collection": "nordic",
+   "price": 7900,
+   "oldPrice": null,
+   "images": [
+    "desk-white",
+    "scene-bright"
+   ],
+   "colors": [
+    {
+     "name": "Beyaz",
+     "hex": "#F4F4F2"
+    }
+   ],
+   "dimensions": {
+    "w": 110,
+    "d": 55,
+    "h": 75
+   },
+   "material": "Lake · Kayın ayak",
+   "description": "Küçük odalara sığan, sade çalışma masası.",
+   "tags": [],
+   "stock": "stokta",
+   "createdAt": "2026-07-10"
+  }
+ ]
+}

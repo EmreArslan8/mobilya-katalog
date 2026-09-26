@@ -1,0 +1,7 @@
+{
+ "default": "nordvik",
+ "tenants": [
+  { "id": "nordvik", "name": "Nordvik Home", "type": "Perakende mağaza" },
+  { "id": "kaya", "name": "Kaya Mobilya", "type": "İmalatçı · B2B" }
+ ]
+}

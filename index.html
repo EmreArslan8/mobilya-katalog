@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#F5F0E8">
+<title>E-Katalog</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="topbar" id="topbar">
+  <button class="icon-btn back" data-action="back" aria-label="Geri" hidden>
+    <svg viewBox="0 0 24 24"><path d="M15 5l-7 7 7 7"/></svg>
+  </button>
+  <a class="brand" href="#/" id="brand"></a>
+  <nav class="desk-nav" id="deskNav"></nav>
+  <div class="top-actions">
+    <button class="icon-btn" data-action="search" aria-label="Ara">
+      <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    </button>
+    <a class="icon-btn has-badge" href="#/teklif" aria-label="Teklif listesi">
+      <svg viewBox="0 0 24 24"><path d="M6 7h12l-1 13H7L6 7z"/><path d="M9 7a3 3 0 016 0"/></svg>
+      <span class="badge" data-badge="quote" hidden></span>
+    </a>
+  </div>
+</header>
+
+<main id="view" class="view" tabindex="-1"></main>
+
+<nav class="tabbar" id="tabbar">
+  <a href="#/" data-tab="home"><svg viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v9h-5v-6H9v6H4z"/></svg><span>Ana sayfa</span></a>
+  <a href="#/kategoriler" data-tab="cats"><svg viewBox="0 0 24 24"><rect x="4" y="4" width="7" height="7" rx="1.5"/><rect x="13" y="4" width="7" height="7" rx="1.5"/><rect x="4" y="13" width="7" height="7" rx="1.5"/><rect x="13" y="13" width="7" height="7" rx="1.5"/></svg><span>Kategoriler</span></a>
+  <a href="#/favoriler" data-tab="favs" class="has-badge"><svg viewBox="0 0 24 24"><path d="M12 20s-7-4.4-7-10a4 4 0 017-2.6A4 4 0 0119 10c0 5.6-7 10-7 10z"/></svg><span>Favoriler</span><i class="badge" data-badge="fav" hidden></i></a>
+  <a href="#/teklif" data-tab="quote" class="has-badge"><svg viewBox="0 0 24 24"><path d="M6 7h12l-1 13H7L6 7z"/><path d="M9 7a3 3 0 016 0"/></svg><span>Teklif</span><i class="badge" data-badge="quote" hidden></i></a>
+  <a href="#/iletisim" data-tab="contact"><svg viewBox="0 0 24 24"><path d="M12 21s-6-5.5-6-11a6 6 0 0112 0c0 5.5-6 11-6 11z"/><circle cx="12" cy="10" r="2.2"/></svg><span>İletişim</span></a>
+</nav>
+
+<div class="search-sheet" id="searchSheet" hidden>
+  <div class="search-head">
+    <svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></svg>
+    <input id="searchInput" type="search" placeholder="Ürün, kategori veya kod ara" autocomplete="off" enterkeyhint="search">
+    <button class="text-btn" data-action="close-search">Kapat</button>
+  </div>
+  <div class="search-body" id="searchBody"></div>
+</div>
+
+<div class="lightbox" id="lightbox" hidden></div>
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script src="assets/app.js"></script>
+</body>
+</html>

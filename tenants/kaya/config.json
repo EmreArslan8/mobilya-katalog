@@ -1,0 +1,32 @@
+{
+ "name": "Kaya Mobilya",
+ "shortName": "KAYA",
+ "tagline": "İnegöl · 1987'den beri imalat",
+ "mode": "b2b",
+ "currency": "TRY",
+ "showPrices": false,
+ "priceLabel": "Bayi fiyatı için teklif isteyin",
+ "theme": {
+  "scheme": "dark",
+  "bg": "#0F1012", "surface": "#18191C", "surface2": "#222429",
+  "ink": "#F1EDE6", "muted": "#9B968D", "line": "#2A2C31",
+  "accent": "#D6A64F", "accentInk": "#15120C", "sale": "#E07A55",
+  "radius": "10px",
+  "fontDisplay": "Space Grotesk", "fontBody": "Inter Tight",
+  "fontsUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter+Tight:wght@400;500;600;700&display=swap"
+ },
+ "hero": [
+  { "image": "scene-loft", "eyebrow": "2026 Bayi Kataloğu", "title": "Fabrikadan mağazanıza", "text": "31 model, 7 kategori. Özel ölçü ve kumaş seçenekleriyle.", "cta": "Kataloğu incele", "link": "#/kategoriler" },
+  { "image": "scene-sectional", "eyebrow": "Proje satışı", "title": "Otel, kafe ve ofis projeleri", "text": "Loft Seri ile toplu siparişlerde özel termin.", "cta": "Loft Seri", "link": "#/koleksiyon/loft" },
+  { "image": "scene-gallery", "eyebrow": "Yeni seri", "title": "Botanik Seri üretimde", "text": "Sınırlı üretim — ön sipariş için teklif alın.", "cta": "Seriyi gör", "link": "#/koleksiyon/botanik" }
+ ],
+ "contact": {
+  "whatsapp": "905550000001",
+  "phone": "+90 224 000 00 00",
+  "email": "bayi@kayamobilya.demo",
+  "address": "Organize Sanayi Bölgesi 4. Cd. No:21, İnegöl / Bursa",
+  "hours": "Hafta içi 08:30 – 18:00",
+  "instagram": "kayamobilya"
+ },
+ "perks": ["Bayiye özel fiyat", "Özel ölçü üretim", "Tüm Türkiye'ye nakliye", "36 ay üretici garantisi"]
+}

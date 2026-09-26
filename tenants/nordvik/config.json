@@ -1,0 +1,31 @@
+{
+ "name": "Nordvik Home",
+ "shortName": "Nordvik",
+ "tagline": "İskandinav ruhlu mobilya",
+ "mode": "retail",
+ "currency": "TRY",
+ "showPrices": true,
+ "theme": {
+  "scheme": "light",
+  "bg": "#F5F0E8", "surface": "#FFFFFF", "surface2": "#EDE5DA",
+  "ink": "#1C1915", "muted": "#776C60", "line": "#E3D9CC",
+  "accent": "#2E5A4C", "accentInk": "#FFFFFF", "sale": "#B6532F",
+  "radius": "18px",
+  "fontDisplay": "Fraunces", "fontBody": "Manrope",
+  "fontsUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Manrope:wght@400;500;600;700&display=swap"
+ },
+ "hero": [
+  { "image": "scene-cream", "eyebrow": "Yeni sezon", "title": "Evinizin en sakin köşesi", "text": "Nordic koleksiyonunda doğal dokular ve yumuşak formlar.", "cta": "Koleksiyonu keşfet", "link": "#/koleksiyon/nordic" },
+  { "image": "scene-orange", "eyebrow": "%15'e varan indirim", "title": "Toprak tonlarında sıcak bir sonbahar", "text": "Kiremit, taba ve hardal — seçili ürünlerde.", "cta": "İndirimleri gör", "link": "#/koleksiyon/toprak" },
+  { "image": "scene-panorama", "eyebrow": "Showroom", "title": "Dokunarak seçin", "text": "Kadıköy showroom'umuzda 300+ ürün sergileniyor.", "cta": "Kategorilere git", "link": "#/kategoriler" }
+ ],
+ "contact": {
+  "whatsapp": "905550000000",
+  "phone": "+90 216 000 00 00",
+  "email": "merhaba@nordvik.demo",
+  "address": "Caferağa Mah. Moda Cd. No:12, Kadıköy / İstanbul",
+  "hours": "Her gün 10:00 – 20:00",
+  "instagram": "nordvikhome"
+ },
+ "perks": ["Ücretsiz montaj", "24 ay garanti", "12 taksit imkânı", "İstanbul içi ücretsiz teslimat"]
+}
